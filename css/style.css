@@ -1272,7 +1272,7 @@ textarea {
 }
 
 .main-footer .footer-logo {
-  margin-bottom: 40px;
+  margin-bottom: 10px;
 }
 
 /*latest news*/
@@ -1564,7 +1564,8 @@ textarea {
 
 .breadcumb-wrapper ul.link-list li a:after {
   content: "\f105";
-  font-family: 'FontAwesome';
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 600;
   margin: 0 10px;
 }
 
@@ -7213,4 +7214,8 @@ textarea {
 
 .about-info p {
   margin: 19px 0px;
+}
+
+.three-column-carousel i {
+  color: #fa9928;
 }
